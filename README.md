@@ -1,2 +1,4 @@
 # MRSample
-GC sample project
+GC sample project     
+      
+unity version 2018 +      
